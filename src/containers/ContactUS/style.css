@@ -1,0 +1,24 @@
+
+.container{
+    text-align: center;
+    width:100%;
+    background-color: white;
+}
+.contact{
+    text-align: center;
+}
+.div{
+    text-transform: capitalize;
+}
+.form{
+    text-align: center;
+}
+.submit{
+   
+    border-radius: 0px;
+}
+.btn{
+    width:100%;
+    background-color: white;
+    border-radius: 30px;
+}

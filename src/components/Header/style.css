@@ -1,0 +1,55 @@
+.head{
+    display:flex;
+    justify-content: space-between;
+    margin: 6px;
+    background-color:#565673;
+    
+}
+
+.Menu {
+    /* //#565673 */
+    margin: 20px 0;
+}
+
+.Menu a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color:#fff;
+    font-size: 15px;
+    letter-spacing: 1.2px;
+}
+.Menu a:hover{
+  color: #5f9ea0;
+}
+.social-container {
+    
+    padding: 20px 50px;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.instagram {
+    color: #f02569;
+  }
+  
+  a.twitter {
+    color: #3093e4;
+  }
+  a.google {
+    color: rebeccapurple;
+  }
+  .whatsapp{
+  
+    color: rgba(25, 235, 25, 0.856);
+  }

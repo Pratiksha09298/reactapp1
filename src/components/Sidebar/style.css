@@ -1,0 +1,74 @@
+.sidebar{
+    width:27%;
+    }
+.cardhead{
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+   
+    box-sizing: border-box;
+    letter-spacing: 2px;
+    color:#565673
+}
+.profileImageContainer{
+    width: 100%;
+    box-sizing: border-box;
+}
+.profileImageContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 20px 0;
+}
+.cardtext{
+    font-size: 14px;
+    color: #565673;
+    font-weight: 350;
+}
+.recentposts{
+    padding: 10px 0;
+}
+.recentpost{
+    border-bottom: 1px solid #eee;
+    margin-bottom: 2px;
+}
+.recentpost h3{
+    color: #6c6c6c;
+    letter-spacing: 0px;
+    font-size: 12px;
+    font-weight: 300;
+    margin: 0;
+}
+.recentpost span{
+    font-size: 5px;
+    font-weight: 300;
+    color: #6c6c66;
+}
+.social-container {
+    
+    padding: 20px 50px;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.instagram {
+    color: #E1306C;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  a.google {
+    color: #34a853;
+  }
+  
+  
